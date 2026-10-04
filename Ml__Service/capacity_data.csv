@@ -1,0 +1,15 @@
+date,department,patient_demand,available_capacity
+2026-09-01,Cardiology,35,40
+2026-09-02,Cardiology,42,40
+2026-09-03,Cardiology,38,40
+2026-09-04,Cardiology,45,40
+2026-09-05,Cardiology,41,40
+2026-09-06,Cardiology,48,40
+2026-09-07,Cardiology,44,40
+2026-09-08,Cardiology,50,40
+2026-09-09,Cardiology,46,40
+2026-09-10,Cardiology,52,40
+2026-09-11,Cardiology,49,40
+2026-09-12,Cardiology,55,40
+2026-09-13,Cardiology,51,40
+2026-09-14,Cardiology,57,40

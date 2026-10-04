@@ -1,0 +1,6 @@
+services:
+  backend:
+    build: .
+    container_name: healthcare-backend
+    ports:
+      - "8000:8000"
